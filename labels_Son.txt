@@ -1,0 +1,12 @@
+BACKGROUND
+cam_sise
+ayran_kutu
+plastik_sise
+pet_sise
+metal_kutu
+ms_kutu
+kagit_bardak
+su_kutu
+pet_bardak
+sut_sise
+kagit
